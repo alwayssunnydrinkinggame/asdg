@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css">
+<style>
+body {
+  font-size: 100%;
+  background-color: hsl(60, 100%, 55%);
+  margin: auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: black;
+}
+
+.topnav a {
+  float: left;
+  color: yellow;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.topnav a:hover {
+  background-color: yellow;
+  color: black;
+}
+
+</style>
+</head>
+
+<body>
+<div class="topnav">
+  <a href="/">Home</a>
+  <a href="/instructions">Pre-Round Etiquette (Instructions)</a>
+  <a href="/game">Go For It, Go For It (Play the Game)</a>
+</div>
+{% include header.html color="black" %}
+{{ content }}
+</h2>
+</body>
+</html>
