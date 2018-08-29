@@ -27,30 +27,24 @@ Each "game" (each episode) has a number of unique, episode specific rules associ
 <h3 style="margin: 0px 150px; text-align: center">Episode Specific Rules:</h3>
 
 <h4 style="margin: 0px 150px; text-align: center">
-For each game, you are given two choices for how the rules you'll play with are picked. Your first choice is to select the number of rules you want to play with and have the program randomly select that many rules from that episode's rules roster for you. Your second choice is to view the rules roster and select exactly which rules you want to play with.   
+For each game, you may view the rules roster and select which of the rules you want to play with. It should be noted that
+<br>
+<em>on average</em>, <strong>one rule = 1/2 beer</strong>.
+</h4>
+<h4 style="margin: 0px 150px; text-align: center">
+Remember that each game is one episode long which is (usually) only ~20 min so please use caution and know your limits when playing. <strong>Small sips are strongly recommended.</strong>
+<br>
+There are also some special rules in a few episodes. These rules require alcoholic drinks other than beer (wine, liquor).
 </h4>
 
 <hr style="height:0px;border:none;visibility: hidden;" />
 
 <h3 style="margin: 0px 150px; text-align: center">Two Overarching Rules:</h3>
 
-<h4 style="margin: 0px 400px; text-align: left">
+<h4 style="margin: 0px 20em; text-align: left">
 1) <em>Drink if you don't guess the episode title correctly before it's shown on screen.</em>
 <br>
 2) <em>Drink if the day or time seen on screen at the beginning of the episode matches the day or is within one hour of the time when you start watching the episode.</em>
 </h4>
 
 <hr style="height:2px;border:none;color:black; background-color: black;" />
-
-<h2 style="text-align: center;">
-How Much Can I Expect To Drink?
-</h2>
-
-<h4 style="text-align: center">
-It depends on how many rules you play with and how large your sips are. It should be noted that <em>on average</em>, <strong>one rule = 1/2 beer</strong>.
-<br>
-<strong>Remember that each game is one episode long which is (usually) only ~20 min so please use caution and know your limits when playing. Small sips are strongly recommended.
-</strong>
-<br>
-There are also some special rules in a few episodes. These rules require alcoholic drinks other than beer (wine, liquor). You have the ability to toggle these special rules on or off as you please.
-</h4>

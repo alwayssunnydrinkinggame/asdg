@@ -54,11 +54,10 @@ permalink: /game
 <body>
 <div class="wrapper">
   <div class="dropdown">
-    <button class="dropbtn">Dropdown</button>
+    <button class="dropbtn">Choose Your Episode</button>
     <div class="dropdown-content">
-      <a href="#">Link 1</a>
-      <a href="#">Link 2</a>
-      <a href="#">Link 3</a>
+      <a href="/s1e1">Season 1 Episode 1</a>
+      <a href="/s1e2">Season 1 Episode 2</a>
       </div>
     </div>
 </div>
