@@ -39,4 +39,20 @@ permalink: /game
       <a class="dropdown-item" href="/s1e6">Episode 6</a>
       <a class="dropdown-item" href="/s1e7">Episode 7</a>
     </div>
+  <div class="btn-group">
+    <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-toggle="dropdown">
+    Season 2
+    </button>
+    <div class="dropdown-menu">
+      <a class="dropdown-item" href="/s2e1">Episode 1</a>
+      <a class="dropdown-item" href="/s2e2">Episode 2</a>
+      <a class="dropdown-item" href="/s2e3">Episode 3</a>
+      <a class="dropdown-item" href="/s2e4">Episode 4</a>
+      <a class="dropdown-item" href="/s2e5">Episode 5</a>
+      <a class="dropdown-item" href="/s2e6">Episode 6</a>
+      <a class="dropdown-item" href="/s2e7">Episode 7</a>
+      <a class="dropdown-item" href="/s2e8">Episode 8</a>
+      <a class="dropdown-item" href="/s2e9">Episode 9</a>
+      <a class="dropdown-item" href="/s2e10">Episode 10</a>
+    </div>
   </div>
